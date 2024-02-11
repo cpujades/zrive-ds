@@ -880,3 +880,12 @@ print("Confusion matrix:", confusion_matrix(y_test, new_preds))
     Confusion matrix: [[743179 109871]
      [  5137   7395]]
 
+
+### Saving model into pickle file
+
+
+```python
+import joblib
+
+joblib.dump(pipeline, 'model.pkl')
+```
