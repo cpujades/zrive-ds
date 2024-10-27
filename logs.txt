@@ -1,0 +1,45 @@
+2024-03-19 16:21:28,206 - INFO - Hello, World!
+2024-03-19 16:23:55,795 - INFO - Hello, World!
+2024-03-19 16:24:01,149 - INFO - Status OK
+2024-03-19 16:24:59,525 - ERROR - User not found in feature store: '0011d59295eaf3ef5809aba64f2401f11e76f5bf6022072436c7c5a94b8c140201a08f6823e54352e2edb2554068736ea8a3d76fe07f467e2e1a473cf0e4236b'
+2024-03-19 16:24:59,526 - ERROR - HTTP Error predicting for user 0011d59295eaf3ef5809aba64f2401f11e76f5bf6022072436c7c5a94b8c140201a08f6823e54352e2edb2554068736ea8a3d76fe07f467e2e1a473cf0e4236b: User not found in feature store
+2024-03-19 16:25:22,291 - ERROR - User not found in feature store: '0011d59295eaf3ef5809aba64f2401f11e76f5bf6022072436c7c5a94b8c140201a08f6823e54352e2edb2554068736ea8a3d76fe07f467e2e1a473cf0e4236b'
+2024-03-19 16:25:22,291 - ERROR - HTTP Error predicting for user 0011d59295eaf3ef5809aba64f2401f11e76f5bf6022072436c7c5a94b8c140201a08f6823e54352e2edb2554068736ea8a3d76fe07f467e2e1a473cf0e4236b: User not found in feature store
+2024-03-19 16:25:46,409 - ERROR - User not found in feature store: '0001d93f7e96bcb713aa8c5283258b5c3a80a7062fbcaf81f378306f709b580c5cb6298e8725daf7090c702c240bca61a2ce9f6ff704a60798b79d2a1a53359e'
+2024-03-19 16:25:46,410 - ERROR - HTTP Error predicting for user 0001d93f7e96bcb713aa8c5283258b5c3a80a7062fbcaf81f378306f709b580c5cb6298e8725daf7090c702c240bca61a2ce9f6ff704a60798b79d2a1a53359e: User not found in feature store
+2024-03-19 16:29:20,513 - INFO - Hello, World!
+2024-03-19 16:29:25,409 - INFO - Status OK
+2024-03-19 17:02:14,838 - INFO - Hello, World!
+2024-03-19 17:02:20,595 - INFO - Status OK
+2024-03-19 17:02:34,720 - ERROR - User not found in feature store: '0001d93f7e96bcb713aa8c5283258b5c3a80a7062fbcaf81f378306f709b580c5cb6298e8725daf7090c702c240bca61a2ce9f6ff704a60798b79d2a1a53359e'
+2024-03-19 17:02:34,721 - ERROR - HTTP Error predicting for user 0001d93f7e96bcb713aa8c5283258b5c3a80a7062fbcaf81f378306f709b580c5cb6298e8725daf7090c702c240bca61a2ce9f6ff704a60798b79d2a1a53359e: User not found in feature store
+2024-03-19 17:04:00,797 - INFO - Hello, World!
+2024-03-19 17:04:07,956 - ERROR - User not found in feature store: '0001d93f7e96bcb713aa8c5283258b5c3a80a7062fbcaf81f378306f709b580c5cb6298e8725daf7090c702c240bca61a2ce9f6ff704a60798b79d2a1a53359e'
+2024-03-19 17:04:07,957 - ERROR - HTTP Error predicting for user 0001d93f7e96bcb713aa8c5283258b5c3a80a7062fbcaf81f378306f709b580c5cb6298e8725daf7090c702c240bca61a2ce9f6ff704a60798b79d2a1a53359e: User not found in feature store
+2024-03-19 17:05:20,979 - ERROR - User not found in feature store: '3909779062916'
+2024-03-19 17:05:20,980 - ERROR - HTTP Error predicting for user 3909779062916: User not found in feature store
+2024-03-19 17:05:41,763 - ERROR - User not found in feature store: '002b3799fded362f631b8238fa2a477a7673e1181b27565f98d10e077bfca2f74abe143fd0377dd07d551a84a44ae5f22139c35e7e0953c87ca9c8c3fe81ffd6'
+2024-03-19 17:05:41,764 - ERROR - HTTP Error predicting for user 002b3799fded362f631b8238fa2a477a7673e1181b27565f98d10e077bfca2f74abe143fd0377dd07d551a84a44ae5f22139c35e7e0953c87ca9c8c3fe81ffd6: User not found in feature store
+2024-03-19 17:18:29,156 - ERROR - User not found in feature store: '002b3799fded362f631b8238fa2a477a7673e1181b27565f98d10e077bfca2f74abe143fd0377dd07d551a84a44ae5f22139c35e7e0953c87ca9c8c3fe81ffd6'
+2024-03-19 17:18:29,157 - ERROR - HTTP Error predicting for user 002b3799fded362f631b8238fa2a477a7673e1181b27565f98d10e077bfca2f74abe143fd0377dd07d551a84a44ae5f22139c35e7e0953c87ca9c8c3fe81ffd6: User not found in feature store
+2024-03-19 17:23:58,372 - INFO - Hello, World!
+2024-03-19 17:24:02,501 - INFO - Status OK
+2024-03-19 17:24:02,959 - INFO - Status OK
+2024-03-19 17:24:16,718 - ERROR - Error during model inference: 'DecisionTreeRegressor' object has no attribute 'monotonic_cst'
+2024-03-19 17:24:16,719 - ERROR - HTTP Error predicting for user 004b3e3cb9a9f5b0974ce4179db394057c72e7a82077bfe6a28af9e6306ebc51b0d8c5c8bd4c9b59ebb3237827df723745c1374d12ad2053e0131edc184df17d: Error during model inference
+2024-03-19 17:47:25,862 - INFO - Hello, World!
+2024-03-19 17:47:33,248 - INFO - Status OK
+2024-03-19 17:47:34,177 - INFO - Status OK
+2024-03-19 17:47:53,620 - ERROR - Error during model inference: 'DecisionTreeRegressor' object has no attribute 'monotonic_cst'
+2024-03-19 17:47:53,621 - ERROR - HTTP Error predicting for user 004b3e3cb9a9f5b0974ce4179db394057c72e7a82077bfe6a28af9e6306ebc51b0d8c5c8bd4c9b59ebb3237827df723745c1374d12ad2053e0131edc184df17d: Error during model inference
+2024-03-19 17:51:22,109 - INFO - Hello, World!
+2024-03-19 17:51:32,912 - INFO - Prediction for user 004b3e3cb9a9f5b0974ce4179db394057c72e7a82077bfe6a28af9e6306ebc51b0d8c5c8bd4c9b59ebb3237827df723745c1374d12ad2053e0131edc184df17d: [39.47007673 40.63524505]
+2024-03-19 17:53:14,164 - INFO - Hello, World!
+2024-03-19 17:53:52,072 - INFO - Prediction for user 004b3e3cb9a9f5b0974ce4179db394057c72e7a82077bfe6a28af9e6306ebc51b0d8c5c8bd4c9b59ebb3237827df723745c1374d12ad2053e0131edc184df17d: [39.47007673 40.63524505]
+2024-03-19 17:55:03,686 - INFO - Hello, World!
+2024-03-19 17:55:07,425 - INFO - Status OK
+2024-03-19 17:55:08,472 - INFO - Status OK
+2024-03-19 17:55:27,174 - INFO - Prediction for user 004b3e3cb9a9f5b0974ce4179db394057c72e7a82077bfe6a28af9e6306ebc51b0d8c5c8bd4c9b59ebb3237827df723745c1374d12ad2053e0131edc184df17d: [39.47007673 40.63524505]
+2024-03-21 13:56:02,577 - INFO - Hello, World!
+2024-03-21 13:56:14,143 - ERROR - User not found in feature store: '3'
+2024-03-21 13:56:14,144 - ERROR - HTTP Error predicting for user 3: User not found in feature store
